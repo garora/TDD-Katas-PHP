@@ -1,5 +1,5 @@
 ### Description
-Simply defines the Test Driven Development Katas. In this, lets try to create most famous katas to understand what are exactly Katas. These Katas can also be used for practicising your C# skills for Unit testing.
+Simply defines the Test Driven Development Katas. In this, lets try to create most famous katas to understand what are exactly Katas. These Katas can also be used for practicising your PHP skills for Unit testing.
 ### Usage
 Clone the repository. First install dependencies with [composer](https://getcomposer.org): 
 ```bash
@@ -11,10 +11,10 @@ vendor/bin/phpunit src
 ```
 Or [install phpunit locally](https://phpunit.de/manual/6.5/en/installation.html).
 ### How to contribute:
-Want to contribute? Make a pull request (PR) to [develop](/TDD-Katas-PHP/tree/dev) branch. Do not make any PR to Master branch.
+Want to contribute? Make a pull request (PR) to [develop](https://github.com/garora/TDD-Katas-PHP/tree/dev) branch. Do not make any PR to Master branch.
 ### License
 MIT License, refer: [License info](/LICENSE.txt) for more information.
-### Explained [Learning Test Driven Development with TDD Katas](http://goo.gl/5NYpVI) -NEED A PHP Version
+### Explained [Learning Test Driven Development with TDD Katas](http://goo.gl/5NYpVI) - NEED A PHP Version. Do you want to write a PHP version?
 
 ### More flavors
 Lookig for implementation in your technology? There are more flavors of the repository:
