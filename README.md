@@ -16,6 +16,13 @@ Want to contribute? Make a pull request (PR) to [develop](https://github.com/gar
 MIT License, refer: [License info](/LICENSE.txt) for more information.
 ### Explained [Learning Test Driven Development with TDD Katas](http://goo.gl/5NYpVI) - NEED A PHP Version. Do you want to write a PHP version?
 
+### Contributors
+
+A big thanks to GitHub and all of TDD-Katas-PHP's contributors:
+
+* [Pierre-Louis](https://github.com/Kishlin)
+
+
 ### More flavors
 Lookig for implementation in your technology? There are more flavors of the repository:
 
